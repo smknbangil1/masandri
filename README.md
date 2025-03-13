@@ -2,7 +2,7 @@
 
 Dengan panduan ini, Anda dapat membuat website dengan cepat hanya dalam beberapa langkah sederhana.
 
-**Langkah 1: Membuat Database**  
+## Langkah 1: Membuat Database 
 
 1. Login ke Ubuntu.  
 2. Jalankan perintah: `sudo su`  
