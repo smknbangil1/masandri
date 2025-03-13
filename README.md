@@ -2,7 +2,15 @@
 
 Dengan panduan ini, Anda dapat membuat website dengan cepat hanya dalam beberapa langkah sederhana.
 
-## Langkah 1: Login ke Ubuntu
+**Langkah 1: Membuat Database**  
+
+1. Login ke Ubuntu.  
+2. Jalankan perintah: `sudo su`  
+3. Eksekusi skrip dengan perintah: `./buat_database.sh`  
+4. Ikuti instruksi yang muncul di layar.  
+5. Proses selesai.
+
+## Langkah 2: Install Wordpress
 1. Masuk ke server Ubuntu Anda melalui SSH.
 2. Ketik perintah berikut untuk mendapatkan akses root:
    ```bash
@@ -16,7 +24,7 @@ Dengan panduan ini, Anda dapat membuat website dengan cepat hanya dalam beberapa
    - Contoh domain utama: `sekolahku.com`
    - Contoh subdomain: `ujian.sekolahku.com`
 
-## Langkah 2: Mengaktifkan SSL
+## Langkah 3: Mengaktifkan SSL
 1. Jalankan perintah berikut untuk memasang SSL menggunakan Certbot:
    ```bash
    certbot --nginx
