@@ -1,6 +1,8 @@
 # Panduan Membuat Website Termudah
 
 Dengan panduan ini, Anda dapat membuat website dengan cepat hanya dalam beberapa langkah sederhana.
+#
+**Pastikan domain Anda sudah mengarah ke IP Public server sebelum menjalankan skrip**
 
 ## Langkah 1: Membuat Database 
 
@@ -34,7 +36,7 @@ Dengan panduan ini, Anda dapat membuat website dengan cepat hanya dalam beberapa
 4. Selesai! Website dan SSL telah dibuat dengan sangat cepat.
 
 ### Catatan:
-- Pastikan domain Anda sudah mengarah ke server sebelum menjalankan skrip.
+- Pastikan domain Anda sudah mengarah ke IP Public server sebelum menjalankan skrip.
 - Hubungi maspur jika ada kendala ya
 
 Website Anda kini telah siap digunakan! 🎉
